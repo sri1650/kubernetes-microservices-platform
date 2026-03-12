@@ -25,3 +25,6 @@ This project demonstrates how microservices can be deployed and managed in Kuber
 - Add Helm charts
 - Add Ingress
 - Add monitoring with Prometheus and Grafana
+## Architecture
+
+[View Kubernetes Architecture Diagram](./architecture.md)
